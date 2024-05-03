@@ -5,7 +5,7 @@ body {
 .calculator {
     width: 270px;
     height: 73vh;
-    margin: 100px auto;
+    margin: 60px auto;
     padding: 20px;
     /* border: 1px solid #ccc; */
     background-color: rgb(36, 34, 34);
